@@ -1,0 +1,12 @@
+div	{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+h1{
+	font-size: 4em;
+}
+
+body{
+	background-image: linear-gradient(to right, red, blue);
+}
